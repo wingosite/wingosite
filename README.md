@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bronson
 - 👀 I’m interested in Vue/React/NestJS/Mysql
 - 🌱 I’m currently learning NestJS
-- 📫 Contact me by emmail: minisoft2020@163.com
+- 📫 Email: minisoft2020@163.com
